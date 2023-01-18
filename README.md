@@ -15,7 +15,7 @@ https://huggingface.co/models?pipeline_tag=image-classification&sort=downloads
 ## Some results (overview)
 <img src="capture1.jpg">
 <br><br>
-<img src="capture2.jpg">
+<img src="capture3.jpg">
 
 
 18-Jan-2023
