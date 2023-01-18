@@ -1,7 +1,7 @@
 # Many models image classification with Transformers
 
-We have many Image classification transformers models available. 
-We can build a python function to test many models at the same time.
+We have multiple image classification transformer models available. 
+We can use a python function to simultaneously test multiple models, similar to a basic AutoML for image classification using transformers.
 
 ## Reference
 https://huggingface.co/models?pipeline_tag=image-classification&sort=downloads
