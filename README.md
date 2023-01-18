@@ -7,6 +7,10 @@ Reference: https://huggingface.co/models?pipeline_tag=image-classification&sort=
 <br><br>
 <a href="Many models image transformers for classification.ipynb">Python notenook</a>
 <br><br>
+## Definition of a list of image classification models
+<img src="models.jpg">
+
+## Result
 <img src="capture1.jpg">
 <br><br>
 <img src="capture2.jpg">
